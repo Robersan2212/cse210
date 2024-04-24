@@ -1,0 +1,14 @@
+/Users/robertosanchez/Documents/Developer /cse210/sandbox/Pickles/bin/Debug/net8.0/Pickles
+/Users/robertosanchez/Documents/Developer /cse210/sandbox/Pickles/bin/Debug/net8.0/Pickles.deps.json
+/Users/robertosanchez/Documents/Developer /cse210/sandbox/Pickles/bin/Debug/net8.0/Pickles.runtimeconfig.json
+/Users/robertosanchez/Documents/Developer /cse210/sandbox/Pickles/bin/Debug/net8.0/Pickles.dll
+/Users/robertosanchez/Documents/Developer /cse210/sandbox/Pickles/bin/Debug/net8.0/Pickles.pdb
+/Users/robertosanchez/Documents/Developer /cse210/sandbox/Pickles/obj/Debug/net8.0/Pickles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robertosanchez/Documents/Developer /cse210/sandbox/Pickles/obj/Debug/net8.0/Pickles.AssemblyInfoInputs.cache
+/Users/robertosanchez/Documents/Developer /cse210/sandbox/Pickles/obj/Debug/net8.0/Pickles.AssemblyInfo.cs
+/Users/robertosanchez/Documents/Developer /cse210/sandbox/Pickles/obj/Debug/net8.0/Pickles.csproj.CoreCompileInputs.cache
+/Users/robertosanchez/Documents/Developer /cse210/sandbox/Pickles/obj/Debug/net8.0/Pickles.dll
+/Users/robertosanchez/Documents/Developer /cse210/sandbox/Pickles/obj/Debug/net8.0/refint/Pickles.dll
+/Users/robertosanchez/Documents/Developer /cse210/sandbox/Pickles/obj/Debug/net8.0/Pickles.pdb
+/Users/robertosanchez/Documents/Developer /cse210/sandbox/Pickles/obj/Debug/net8.0/Pickles.genruntimeconfig.cache
+/Users/robertosanchez/Documents/Developer /cse210/sandbox/Pickles/obj/Debug/net8.0/ref/Pickles.dll
